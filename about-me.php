@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<div class="bg-blue" id="paragraph-1">
-<p>This is where im from. I made the background blue because we're surrounded by water.</p>
+			<p>This is where im from. I made the background blue because we're surrounded by water.</p>
 		</div>
 	<img src="http://www.doyleguides.com/images/domboiling03">
 	</body>
