@@ -21,6 +21,3 @@
 		</body>
 </html>
 
-bg-green {
-	background: green;
-}
