@@ -4,7 +4,8 @@
 		<meta charset="utf-8"/>
 		<h1>
 			<strong>This one is about me, myself and I</strong>
-			<strong>DenzyL Dane Fontaine</strong>
+			<br/>
+			<strong>Denzyl Dane Fontaine</strong>
 		</h1>
 		<title></title>
 	</head>
