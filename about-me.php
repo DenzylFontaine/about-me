@@ -3,13 +3,16 @@
 	<head>
 		<meta charset="utf-8"/>
 		<h1>
-			<strong>This one is about me, myself and I. Denzyl Dane Fontaine</strong>
+			<strong>This one is about me, myself and I.
+				Denzyl Dane Fontaine</strong>
 		</h1>
 		<title></title>
 	</head>
 		<body>
-			<p1>I am from Dominica, but WV is more like home to me. Maybe it's just i was old enough to start remember things i did there.
-				Either ill be a Mountaineer for life!</p1>
+			<p1>I am from Dominica </p1>
+			<img src="http://www.worldatlas.com/img/areamap/6cf6d67373e208a83adbfe711fab6b4a" hieght="400" width="400"
+			<p2>but West Virginia is more like home to me. Maybe it's just i was old enough to start remember things i did there.
+				Either way ill be a Mountaineer for life!</p2>
 		<div>
 			<img src="http://ezdzine.com/blog/wp-content/uploads/2013/12/wvu" hieght="250" width="250"
 		</div>
