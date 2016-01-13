@@ -15,7 +15,7 @@
 		<p>but West Virginia is more like home to me. Maybe it's just i was old enough to start remember things i did there.
 			Either way ill be a Mountaineer for life!</p>
 	<div>
-		<img class="map" src="http://ezdzine.com/blog/wp-content/uploads/2013/12/wvu">
+		<img class="man" src="http://ezdzine.com/blog/wp-content/uploads/2013/12/wvu">
 	</div>
 	</body>
 </html>
