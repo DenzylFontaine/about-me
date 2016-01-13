@@ -10,7 +10,7 @@
 		<title></title>
 	</head>
 		<body>
-			<p1 class="dg-green">I am from Dominica </p1>
+			<p1 class="bg-green">I am from Dominica </p1>
 			<br/>
 			<img src="http://www.safehavenrealestate.com/images/dominica_map.jpg" hieght="400" width="400">
 			<p2 class="bg-green">but West Virginia is more like home to me. Maybe it's just i was old enough to start remember things i did there.
