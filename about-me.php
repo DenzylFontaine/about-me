@@ -10,7 +10,8 @@
 	</head>
 		<body>
 			<p1>I am from Dominica </p1>
-			<img src="http://www.safehavenrealestate.com/images/dominica_map.jpg" hieght="400" width="400"
+			<img src="http://www.safehavenrealestate.com/images/dominica_map.jpg" hieght="400" width="400">
+			<br/>
 			<p2>but West Virginia is more like home to me. Maybe it's just i was old enough to start remember things i did there.
 				Either way ill be a Mountaineer for life!</p2>
 		<div>
