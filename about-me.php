@@ -3,8 +3,8 @@
 	<head>
 		<meta charset="utf-8"/>
 		<h1>
-			<strong>This one is about me, myself and I.
-				Denzyl Dane Fontaine</strong>
+			<strong>This one is about me, myself and I</strong>
+			<strong>DenzyL Dane Fontaine</strong>
 		</h1>
 		<title></title>
 	</head>
