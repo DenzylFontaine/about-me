@@ -8,9 +8,10 @@
 		<title></title>
 	</head>
 		<body>
-			<p1>I am from Dominica, but WV is more like home to me. Maybe it's just i was old enough to start remember things i did there</p1>
+			<p1>I am from Dominica, but WV is more like home to me. Maybe it's just i was old enough to start remember things i did there.
+				Either ill be a Mountaineer for life!</p1>
 		<div>
-			<img src="http://ezdzine.com/blog/wp-content/uploads/2013/12/wvu"
+			<img src="http://ezdzine.com/blog/wp-content/uploads/2013/12/wvu" hieght="250" width="250"
 		</div>
 		</body>
 </html>
