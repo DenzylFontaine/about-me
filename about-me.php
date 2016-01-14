@@ -17,8 +17,13 @@
 			Overtime i've learning love this place. Never realized how diverse the places i've lived in are. </p>
 		</div>
 		<img class="pic" src="http://thedominican.net/images/article_images/victoriafalls.jpg"
+			<br/>
 		<img class="pic" src="http://cdn2.hubspot.net/hub/138426/file-17653294-jpg/images/roseau-dominica-news-online"
-		<p></p>
+			<div class="bdr-purp" id="paragraph-2">
+				<p>Sports caster should be my second job.</p>
+				<p>At least for basketball and football.</p>
+				<p>I practically do that already while watching the games.</p>
+			</div>
 	</body>
 </html>
 
