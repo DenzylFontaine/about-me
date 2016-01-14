@@ -17,9 +17,9 @@ p {
 
 .bdr-purp {
 	border: mediumpurple;
-	text-decoration: mediumpurple;
+	color: mediumpurple;
 }
 
 h1 {
-	text-decoration: mediumorchid;
+	color: mediumorchid;
 }
