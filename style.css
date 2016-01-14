@@ -1,13 +1,7 @@
-.map {
-	height: 300px;
-	width: 300px;
-}
-
 html {
-	background: mediumpurple;
+	background: black;
 }
 
-.wvu {
-	height: 300px;
-	width: 300px;
+.bg-purp {
+	background: mediumpurple;
 }
