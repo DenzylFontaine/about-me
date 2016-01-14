@@ -16,7 +16,8 @@
 			Some how I ended up in the desert,Abq, New Mexico.
 			Overtime i've learning love this place. Never realized how diverse the places i've lived in are. </p>
 		</div>
-		<img class="pic" src="http://thedominican.net/images/article_images/victoriafalls.jpg">
+		<img class="pic" src="http://thedominican.net/images/article_images/victoriafalls.jpg"
+			<img class="pic" src="http://cdn2.hubspot.net/hub/138426/file-17653294-jpg/images/roseau-dominica-news-online.jpg"
 		<p></p>
 	</body>
 </html>
