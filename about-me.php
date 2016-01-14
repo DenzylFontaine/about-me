@@ -7,7 +7,8 @@
 		<title></title>
 	</head>
 	<body>
-		<div class="bg-purp" id="paragraph-1">
+		<div class="bg-purp" id="paragraph-1"
+		img class="pic" src="http://paradiseintheworld.com/wp-content/uploads/2012/02/dominica">
 			<p>Back home to me is the black sandy beaches of Dominica. This island is one of a kind,
 			"the Nature Island of the Caribbean", is where I grew up.
 			Then it was off to West Virginia the home of the WVU Mountaineers.
