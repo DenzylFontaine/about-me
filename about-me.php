@@ -16,7 +16,7 @@
 			Some how I ended up in the desert,Abq, New Mexico.
 			Overtime i've learning love this place. Never realized how diverse the places i've lived in are. </p>
 		</div>
-		<img class="pic" src="http://images.travelpod.com/tw_slides/ta00/afb/8ee/beautiful-dominica-roseau">
+		<img class="pic" src="http://thedominican.net/images/article_images/victoriafalls.jpg">
 		<p></p>
 	</body>
 </html>
