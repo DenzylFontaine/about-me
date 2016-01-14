@@ -16,7 +16,7 @@
 			Some how I ended up in the desert,Abq, New Mexico.
 			Overtime i've learning love this place. Never realized how diverse the places i've lived in are. </p>
 		</div>
-			<img class="pic" src="http://paradiseintheworld.com/wp-content/uploads/2012/02/dominica">
+			<img class="pic" src="http://www.sunsail.com/files/Destinations/Caribbean/guadeloupe/portsmouth-dominica">
 		<p></p>
 	</body>
 </html>
