@@ -6,7 +6,8 @@
 		<link href="style.css" rel="stylesheet" type="text/css" />
 		<title></title>
 	</head>
-	<h1>Me Myself and I. Denzyl Dane Fontaine</h1>
+	<h1>Me Myself and I.
+	Denzyl Dane Fontaine</h1>
 	<body>
 		<div class="bg-purp" id="paragraph-1">
 			<p>Back home to me is the black sandy beaches of Dominica. This island is one of a kind,
